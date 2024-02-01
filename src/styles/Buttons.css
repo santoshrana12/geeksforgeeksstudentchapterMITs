@@ -1,0 +1,30 @@
+#team-button {
+    margin-left: 10%;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  #team-button:hover {
+    background-color: #6aa6e8;
+  }
+  
+  #event-button {
+    background-color: #2218e4;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  #event-button:hover {
+    background-color: #766fc2;
+  }

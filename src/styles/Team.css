@@ -1,0 +1,29 @@
+ .team-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .team-heading {
+    color: #333;
+  }
+  
+  .team-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .member-name {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .team-card .MuiButton-root {
+    margin-top: 10px;
+  }
+  
